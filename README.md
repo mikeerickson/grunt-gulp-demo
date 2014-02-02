@@ -9,15 +9,21 @@ http://nodejs.org/
 
 2 Install Bower
 
+```
 $ npm install bower
+```
 
 3 Install Grunt and Gulp Plugins
 
+```
 $ npm install --save
+```
 
 4 Install Demo Resources
 
+```
 $ bower install --save
+```
 
 ## Credits
 
