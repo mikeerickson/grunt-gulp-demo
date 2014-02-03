@@ -10,7 +10,7 @@ http://nodejs.org/
 2 Install Bower
 
 ```
-$ npm install bower
+$ npm install bower -g
 ```
 
 3 Install Grunt and Gulp Plugins
